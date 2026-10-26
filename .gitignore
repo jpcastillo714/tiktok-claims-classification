@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch directory (preserve folder, ignore contents)
+scratch/*
+!scratch/.gitkeep

@@ -1,0 +1,22 @@
+# Tareas del Hito: TikTok Proyecto — Curso 1
+
+- [x] **Paso 1: Laboratorio de Python (Jupyter Notebook)**
+  - [x] Completar celdas de código de importación, carga y exploración básica (`Task 2a`, `Task 2b`)
+  - [x] Responder preguntas reflexivas 1-3 en celda Markdown (`Task 2b`)
+  - [x] Implementar análisis de `claim_status`, cálculo de medias/medianas de vistas y desgloses por estado de suspensión (`Task 2c`)
+  - [x] Crear variables derivadas (`likes_per_view`, `comments_per_view`, `shares_per_view`) y agrupaciones estadísticas (`Task 2c`)
+  - [x] Responder preguntas reflexivas intermedias y síntesis final para Rosie Mae Bradshaw
+  - [x] Ejecutar el notebook e insertar outputs estructurados en el JSON
+- [x] **Paso 2: Documento de Estrategia PACE**
+  - [x] Responder preguntas de la fase **Plan** en `PACE_Strategy_Document_TikTok.md`
+  - [x] Responder preguntas de la fase **Analyze** en `PACE_Strategy_Document_TikTok.md`
+  - [x] Responder preguntas de la fase **Execute** en `PACE_Strategy_Document_TikTok.md`
+- [x] **Paso 3: Redacción del Resumen Ejecutivo**
+  - [x] Crear `Resumen_Ejecutivo_TikTok_Curso1.md` siguiendo la plantilla oficial
+  - [x] Incluir métricas cuantitativas, hallazgos clave ("¡Ajá!") y hoja de ruta para Curso 2
+- [x] **Paso 4: Actualización de MOC y Enlaces de Navegación**
+  - [x] Actualizar `README.md` con el nuevo resumen ejecutivo
+  - [x] Actualizar `HANDOFF_TIKTOK.md` reflejando el estado completado
+- [x] **Paso 5: Validación Estricta**
+  - [x] Verificar sintaxis y ejecución del notebook
+  - [x] Verificar ausencia de protocolo `file:///` y consistencia de enlaces relativos
